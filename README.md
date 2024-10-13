@@ -1,3 +1,7 @@
+# DEPRECATED
+
+moved to https://github.com/VitaSound/fmix
+
 # fmix
 [![License](https://img.shields.io/badge/License-COPL-red.svg)](https://raw.githubusercontent.com/UA3MQJ/fmix/master/LICENSE)
 [![Ver](https://img.shields.io/badge/Ver-0.3.1-green.svg)](https://github.com/UA3MQJ/fmix/tree/0.3.1)
